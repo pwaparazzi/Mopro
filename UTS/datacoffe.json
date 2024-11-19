@@ -1,72 +1,309 @@
-[
-  {
-  "coffee_id": 1,
-   "coffee_title": "Caffè Latte",
-   "coffee_detail": "Rich, full-bodied espresso...",
-   "coffee_thumbnails": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/caffe_latte_thumbnail.png",
-   "coffee_poster": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/caffe_latte_poster.jpg"
-  },
-  {
-    "coffee_id": 2,
-    "coffee_title": "Cappuccino",
-    "coffee_detail": "Espresso with steamed milk, topped with a deep layer of foam.",
-    "coffee_thumbnails": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/cappuccino_thumbnail.png",
-    "coffee_poster": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/cappuccino_poster.jpg"
-  },
-  {
-    "coffee_id": 3,
-    "coffee_title": "Caffè Mocha",
-    "coffee_detail": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful.",
-    "coffee_thumbnails": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/caffe_mocha_thumbnail.png",
-    "coffee_poster": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/caffe_mocha_poster.jpg"
-  },
-  {
-    "coffee_id": 4,
-    "coffee_title": "Caramel Macchiato",
-    "coffee_detail": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. A Starbucks classic, chilled for a classic summer’s day. To our signature espresso we add a creamy mix of vanilla syrup and cold milk poured over ice; it’s then topped with our proprietary buttery caramel sauce. Sweet!",
-    "coffee_thumbnails": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/caramel_macchiato_thumbnail.png",
-    "coffee_poster": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/caramel_macchiato_poster.jpg"
-  },
-  {
-    "coffee_id": 5,
-    "coffee_title": "Vanilla Sweet Cream Cold Brew",
-    "coffee_detail": "Just before serving, our slow-steeped Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
-    "coffee_thumbnails": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/vanilla_sweet_cream_cold_brew_thumbnail.png",
-    "coffee_poster": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/vanilla_sweet_cream_cold_brew_poster.jpg"
-  },
-  {
-    "coffee_id": 6,
-    "coffee_title": "Cold Brew",
-    "coffee_detail": "Slow-steeped, small-batch and super smooth. To create our signature recipe, our team spent months experimenting with different brew times and coffee varietals. We specifically developed the Starbucks Cold Brew Blend to heighten the rich, naturally sweet flavor created during the cold brewing process.",
-    "coffee_thumbnails": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/cold_brew_thumbnail.png",
-    "coffee_poster": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/cold_brew_poster.jpg"
-  },
-  {
-    "coffee_id": 7,
-    "coffee_title": "Mango Passion Frappuccino",
-    "coffee_detail": "A tropical mango and passionfruit infusion, perfectly blended with a fruity hibiscus tea and ice.",
-    "coffee_thumbnails": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/mango_passion_frappuccino_thumbnail.png",
-    "coffee_poster": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/mango_passion_frappuccino_poster.jpg"
-  },
-  {
-    "coffee_id": 8,
-    "coffee_title": "Raspberry Currant Frappuccino",
-    "coffee_detail": "Made with freshly brewed Teavana tea, blended juice and ice.",
-    "coffee_thumbnails": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/raspberry_currant_frappuccino_thumbnail.png",
-    "coffee_poster": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/raspberry_currant_frappuccino_poster.jpg"
-  },
-  {
-    "coffee_id": 9,
-    "coffee_title": "Coffee Frappuccino",
-    "coffee_detail": "Starbucks coffee is blended with nonfat milk and ice for a sip on the light side.",
-    "coffee_thumbnails": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/coffee_frappuccino_thumbnail.png",
-    "coffee_poster": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/coffee_frappuccino_poster.jpg"
-  },
-  {
-    "coffee_id": 10,
-    "coffee_title": "Mocha Frappuccino",
-    "coffee_detail": "Mocha sauce, Frappuccino roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more.",
-    "coffee_thumbnails": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/mocha_frappuccino_thumbnail.png",
-    "coffee_poster": "https://raw.githubusercontent.com/pwaparazzi/Mopro/refs/heads/main/UTS/mocha_frappuccino_poster.jpg"
-  }
-]
+{
+  "akun_siswa": [
+    {
+      "id_siswa": "1",
+      "nama": "Niswa Alfiyya",
+      "email": "niswa@gmail.com",
+      "password": "muimui123"
+    },
+    {
+      "id_siswa": "2",
+      "nama": "Dellar Rachmatika",
+      "email": "dellar@gmail.com",
+      "password": "123"
+    },
+    {
+      "id_siswa": "3",
+      "nama": "Della Putri",
+      "email": "dellap@gmail.com",
+      "password": "dellap"
+    },
+    {
+      "id_siswa": "4",
+      "nama": "Arianti Sagita",
+      "email": "arianti@gmail.com",
+      "password": "gitagit"
+    },
+    {
+      "id_siswa": "5",
+      "nama": "Wicheriani Galuh",
+      "email": "cece@gmail.com",
+      "password": "cecece"
+    },
+    {
+      "id_siswa": "6",
+      "nama": "Arya Mahendra",
+      "email": "arya.mahendra@example.com",
+      "password": "pass1234"
+    },
+    {
+      "id_siswa": "7",
+      "nama": "Raya Salsabila",
+      "email": "raya.salsabila@example.com",
+      "password": "securepass"
+    },
+    {
+      "id_siswa": "8",
+      "nama": "Hana Putri",
+      "email": "hana.putri@example.com",
+      "password": "mypass789"
+    },
+    {
+      "id_siswa": "9",
+      "nama": "Raka Pradipta",
+      "email": "raka.pradipta@example.com",
+      "password": "qwerty123"
+    },
+    {
+      "id_siswa": "10",
+      "nama": "Ziva Anggraini",
+      "email": "ziva.anggraini@example.com",
+      "password": "password99"
+    },
+    {
+      "id_siswa": "11",
+      "nama": "Daffa Ramadhan",
+      "email": "daffa.ramadhan@example.com",
+      "password": "letmein01"
+    },
+    {
+      "id_siswa": "12",
+      "nama": "Ayu Lestari",
+      "email": "ayu.lestari@example.com",
+      "password": "pass5678"
+    },
+    {
+      "id_siswa": "13",
+      "nama": "Radit Wirawan",
+      "email": "radit.wirawan@example.com",
+      "password": "strongpass"
+    },
+    {
+      "id_siswa": "14",
+      "nama": "Vira Maharani",
+      "email": "vira.maharani@example.com",
+      "password": "welcome12"
+    },
+    {
+      "id_siswa": "15",
+      "nama": "Aldo Wiratama",
+      "email": "aldo.wiratama@example.com",
+      "password": "secret456"
+    },
+    {
+      "id_siswa": "16",
+      "nama": "Tania Safira",
+      "email": "tania.safira@example.com",
+      "password": "entry123"
+    },
+    {
+      "id_siswa": "17",
+      "nama": "Evan Saputra",
+      "email": "evan.saputra@example.com",
+      "password": "keycode78"
+    },
+    {
+      "id_siswa": "18",
+      "nama": "Nara Prasetya",
+      "email": "nara.prasetya@example.com",
+      "password": "p@ssw0rd"
+    },
+    {
+      "id_siswa": "19",
+      "nama": "Zara Rahayu",
+      "email": "zara.rahayu@example.com",
+      "password": "secure987"
+    },
+    {
+      "id_siswa": "20",
+      "nama": "Jovan Fadillah",
+      "email": "jovan.fadillah@example.com",
+      "password": "letmein12"
+    },
+    {
+      "id_siswa": "21",
+      "nama": "Nabila Syifa",
+      "email": "nabila.syifa@example.com",
+      "password": "openpass"
+    },
+    {
+      "id_siswa": "22",
+      "nama": "Rizky Setiawan",
+      "email": "rizky.setiawan@example.com",
+      "password": "myentry56"
+    },
+    {
+      "id_siswa": "23",
+      "nama": "Laila Khairunnisa",
+      "email": "laila.khairunnisa@example.com",
+      "password": "quickpass"
+    },
+    {
+      "id_siswa": "24",
+      "nama": "Farrel Permadi",
+      "email": "farrel.permadi@example.com",
+      "password": "mypasscode"
+    },
+    {
+      "id_siswa": "25",
+      "nama": "Nisa Amalia",
+      "email": "nisa.amalia@example.com",
+      "password": "opensesame"
+    },
+    {
+      "id_siswa": "26",
+      "nama": "Niswa Alfiyya",
+      "email": "niswa@gmail.com",
+      "password": "muimui123"
+    },
+    {
+      "id_siswa": "27",
+      "nama": "Dellar Rachmatika",
+      "email": "dellar@gmail.com",
+      "password": "123"
+    },
+    {
+      "id_siswa": "28",
+      "nama": "Della Putri",
+      "email": "dellap@gmail.com",
+      "password": "dellap"
+    },
+    {
+      "id_siswa": "29",
+      "nama": "Arianti Sagita",
+      "email": "arianti@gmail.com",
+      "password": "gitagit"
+    },
+    {
+      "id_siswa": "30",
+      "nama": "Wicheriani Galuh",
+      "email": "cece@gmail.com",
+      "password": "cecece"
+    },
+    {
+      "id_siswa": "31",
+      "nama": "Arya Mahendra",
+      "email": "arya.mahendra@example.com",
+      "password": "pass1234"
+    },
+    {
+      "id_siswa": "32",
+      "nama": "Raya Salsabila",
+      "email": "raya.salsabila@example.com",
+      "password": "securepass"
+    },
+    {
+      "id_siswa": "33",
+      "nama": "Hana Putri",
+      "email": "hana.putri@example.com",
+      "password": "mypass789"
+    },
+    {
+      "id_siswa": "34",
+      "nama": "Raka Pradipta",
+      "email": "raka.pradipta@example.com",
+      "password": "qwerty123"
+    },
+    {
+      "id_siswa": "35",
+      "nama": "Ziva Anggraini",
+      "email": "ziva.anggraini@example.com",
+      "password": "password99"
+    },
+    {
+      "id_siswa": "36",
+      "nama": "Daffa Ramadhan",
+      "email": "daffa.ramadhan@example.com",
+      "password": "letmein01"
+    },
+    {
+      "id_siswa": "37",
+      "nama": "Ayu Lestari",
+      "email": "ayu.lestari@example.com",
+      "password": "pass5678"
+    },
+    {
+      "id_siswa": "38",
+      "nama": "Radit Wirawan",
+      "email": "radit.wirawan@example.com",
+      "password": "strongpass"
+    },
+    {
+      "id_siswa": "39",
+      "nama": "Vira Maharani",
+      "email": "vira.maharani@example.com",
+      "password": "welcome12"
+    },
+    {
+      "id_siswa": "40",
+      "nama": "Aldo Wiratama",
+      "email": "aldo.wiratama@example.com",
+      "password": "secret456"
+    },
+    {
+      "id_siswa": "41",
+      "nama": "Tania Safira",
+      "email": "tania.safira@example.com",
+      "password": "entry123"
+    },
+    {
+      "id_siswa": "42",
+      "nama": "Evan Saputra",
+      "email": "evan.saputra@example.com",
+      "password": "keycode78"
+    },
+    {
+      "id_siswa": "43",
+      "nama": "Nara Prasetya",
+      "email": "nara.prasetya@example.com",
+      "password": "p@ssw0rd"
+    },
+    {
+      "id_siswa": "44",
+      "nama": "Zara Rahayu",
+      "email": "zara.rahayu@example.com",
+      "password": "secure987"
+    },
+    {
+      "id_siswa": "45",
+      "nama": "Jovan Fadillah",
+      "email": "jovan.fadillah@example.com",
+      "password": "letmein12"
+    },
+    {
+      "id_siswa": "46",
+      "nama": "Nabila Syifa",
+      "email": "nabila.syifa@example.com",
+      "password": "openpass"
+    },
+    {
+      "id_siswa": "47",
+      "nama": "Rizky Setiawan",
+      "email": "rizky.setiawan@example.com",
+      "password": "myentry56"
+    },
+    {
+      "id_siswa": "48",
+      "nama": "Laila Khairunnisa",
+      "email": "laila.khairunnisa@example.com",
+      "password": "quickpass"
+    },
+    {
+      "id_siswa": "49",
+      "nama": "Farrel Permadi",
+      "email": "farrel.permadi@example.com",
+      "password": "mypasscode"
+    },
+    {
+      "id_siswa": "50",
+      "nama": "Nisa Amalia",
+      "email": "nisa.amalia@example.com",
+      "password": "opensesame"
+    }
+  ],
+  "hasil_asesmen": [],
+  "hasil_belajar": [],
+  "loading_page": [],
+  "materi_siswa": [],
+  "soal_siswa": []
+}
