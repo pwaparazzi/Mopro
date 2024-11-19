@@ -1,0 +1,309 @@
+{
+  "akun_siswa": [
+    {
+      "id_siswa": "1",
+      "nama": "Niswa Alfiyya",
+      "email": "niswa@gmail.com",
+      "password": "muimui123"
+    },
+    {
+      "id_siswa": "2",
+      "nama": "Dellar Rachmatika",
+      "email": "dellar@gmail.com",
+      "password": "123"
+    },
+    {
+      "id_siswa": "3",
+      "nama": "Della Putri",
+      "email": "dellap@gmail.com",
+      "password": "dellap"
+    },
+    {
+      "id_siswa": "4",
+      "nama": "Arianti Sagita",
+      "email": "arianti@gmail.com",
+      "password": "gitagit"
+    },
+    {
+      "id_siswa": "5",
+      "nama": "Wicheriani Galuh",
+      "email": "cece@gmail.com",
+      "password": "cecece"
+    },
+    {
+      "id_siswa": "6",
+      "nama": "Arya Mahendra",
+      "email": "arya.mahendra@example.com",
+      "password": "pass1234"
+    },
+    {
+      "id_siswa": "7",
+      "nama": "Raya Salsabila",
+      "email": "raya.salsabila@example.com",
+      "password": "securepass"
+    },
+    {
+      "id_siswa": "8",
+      "nama": "Hana Putri",
+      "email": "hana.putri@example.com",
+      "password": "mypass789"
+    },
+    {
+      "id_siswa": "9",
+      "nama": "Raka Pradipta",
+      "email": "raka.pradipta@example.com",
+      "password": "qwerty123"
+    },
+    {
+      "id_siswa": "10",
+      "nama": "Ziva Anggraini",
+      "email": "ziva.anggraini@example.com",
+      "password": "password99"
+    },
+    {
+      "id_siswa": "11",
+      "nama": "Daffa Ramadhan",
+      "email": "daffa.ramadhan@example.com",
+      "password": "letmein01"
+    },
+    {
+      "id_siswa": "12",
+      "nama": "Ayu Lestari",
+      "email": "ayu.lestari@example.com",
+      "password": "pass5678"
+    },
+    {
+      "id_siswa": "13",
+      "nama": "Radit Wirawan",
+      "email": "radit.wirawan@example.com",
+      "password": "strongpass"
+    },
+    {
+      "id_siswa": "14",
+      "nama": "Vira Maharani",
+      "email": "vira.maharani@example.com",
+      "password": "welcome12"
+    },
+    {
+      "id_siswa": "15",
+      "nama": "Aldo Wiratama",
+      "email": "aldo.wiratama@example.com",
+      "password": "secret456"
+    },
+    {
+      "id_siswa": "16",
+      "nama": "Tania Safira",
+      "email": "tania.safira@example.com",
+      "password": "entry123"
+    },
+    {
+      "id_siswa": "17",
+      "nama": "Evan Saputra",
+      "email": "evan.saputra@example.com",
+      "password": "keycode78"
+    },
+    {
+      "id_siswa": "18",
+      "nama": "Nara Prasetya",
+      "email": "nara.prasetya@example.com",
+      "password": "p@ssw0rd"
+    },
+    {
+      "id_siswa": "19",
+      "nama": "Zara Rahayu",
+      "email": "zara.rahayu@example.com",
+      "password": "secure987"
+    },
+    {
+      "id_siswa": "20",
+      "nama": "Jovan Fadillah",
+      "email": "jovan.fadillah@example.com",
+      "password": "letmein12"
+    },
+    {
+      "id_siswa": "21",
+      "nama": "Nabila Syifa",
+      "email": "nabila.syifa@example.com",
+      "password": "openpass"
+    },
+    {
+      "id_siswa": "22",
+      "nama": "Rizky Setiawan",
+      "email": "rizky.setiawan@example.com",
+      "password": "myentry56"
+    },
+    {
+      "id_siswa": "23",
+      "nama": "Laila Khairunnisa",
+      "email": "laila.khairunnisa@example.com",
+      "password": "quickpass"
+    },
+    {
+      "id_siswa": "24",
+      "nama": "Farrel Permadi",
+      "email": "farrel.permadi@example.com",
+      "password": "mypasscode"
+    },
+    {
+      "id_siswa": "25",
+      "nama": "Nisa Amalia",
+      "email": "nisa.amalia@example.com",
+      "password": "opensesame"
+    },
+    {
+      "id_siswa": "26",
+      "nama": "Niswa Alfiyya",
+      "email": "niswa@gmail.com",
+      "password": "muimui123"
+    },
+    {
+      "id_siswa": "27",
+      "nama": "Dellar Rachmatika",
+      "email": "dellar@gmail.com",
+      "password": "123"
+    },
+    {
+      "id_siswa": "28",
+      "nama": "Della Putri",
+      "email": "dellap@gmail.com",
+      "password": "dellap"
+    },
+    {
+      "id_siswa": "29",
+      "nama": "Arianti Sagita",
+      "email": "arianti@gmail.com",
+      "password": "gitagit"
+    },
+    {
+      "id_siswa": "30",
+      "nama": "Wicheriani Galuh",
+      "email": "cece@gmail.com",
+      "password": "cecece"
+    },
+    {
+      "id_siswa": "31",
+      "nama": "Arya Mahendra",
+      "email": "arya.mahendra@example.com",
+      "password": "pass1234"
+    },
+    {
+      "id_siswa": "32",
+      "nama": "Raya Salsabila",
+      "email": "raya.salsabila@example.com",
+      "password": "securepass"
+    },
+    {
+      "id_siswa": "33",
+      "nama": "Hana Putri",
+      "email": "hana.putri@example.com",
+      "password": "mypass789"
+    },
+    {
+      "id_siswa": "34",
+      "nama": "Raka Pradipta",
+      "email": "raka.pradipta@example.com",
+      "password": "qwerty123"
+    },
+    {
+      "id_siswa": "35",
+      "nama": "Ziva Anggraini",
+      "email": "ziva.anggraini@example.com",
+      "password": "password99"
+    },
+    {
+      "id_siswa": "36",
+      "nama": "Daffa Ramadhan",
+      "email": "daffa.ramadhan@example.com",
+      "password": "letmein01"
+    },
+    {
+      "id_siswa": "37",
+      "nama": "Ayu Lestari",
+      "email": "ayu.lestari@example.com",
+      "password": "pass5678"
+    },
+    {
+      "id_siswa": "38",
+      "nama": "Radit Wirawan",
+      "email": "radit.wirawan@example.com",
+      "password": "strongpass"
+    },
+    {
+      "id_siswa": "39",
+      "nama": "Vira Maharani",
+      "email": "vira.maharani@example.com",
+      "password": "welcome12"
+    },
+    {
+      "id_siswa": "40",
+      "nama": "Aldo Wiratama",
+      "email": "aldo.wiratama@example.com",
+      "password": "secret456"
+    },
+    {
+      "id_siswa": "41",
+      "nama": "Tania Safira",
+      "email": "tania.safira@example.com",
+      "password": "entry123"
+    },
+    {
+      "id_siswa": "42",
+      "nama": "Evan Saputra",
+      "email": "evan.saputra@example.com",
+      "password": "keycode78"
+    },
+    {
+      "id_siswa": "43",
+      "nama": "Nara Prasetya",
+      "email": "nara.prasetya@example.com",
+      "password": "p@ssw0rd"
+    },
+    {
+      "id_siswa": "44",
+      "nama": "Zara Rahayu",
+      "email": "zara.rahayu@example.com",
+      "password": "secure987"
+    },
+    {
+      "id_siswa": "45",
+      "nama": "Jovan Fadillah",
+      "email": "jovan.fadillah@example.com",
+      "password": "letmein12"
+    },
+    {
+      "id_siswa": "46",
+      "nama": "Nabila Syifa",
+      "email": "nabila.syifa@example.com",
+      "password": "openpass"
+    },
+    {
+      "id_siswa": "47",
+      "nama": "Rizky Setiawan",
+      "email": "rizky.setiawan@example.com",
+      "password": "myentry56"
+    },
+    {
+      "id_siswa": "48",
+      "nama": "Laila Khairunnisa",
+      "email": "laila.khairunnisa@example.com",
+      "password": "quickpass"
+    },
+    {
+      "id_siswa": "49",
+      "nama": "Farrel Permadi",
+      "email": "farrel.permadi@example.com",
+      "password": "mypasscode"
+    },
+    {
+      "id_siswa": "50",
+      "nama": "Nisa Amalia",
+      "email": "nisa.amalia@example.com",
+      "password": "opensesame"
+    }
+  ],
+  "hasil_asesmen": [],
+  "hasil_belajar": [],
+  "loading_page": [],
+  "materi_siswa": [],
+  "soal_siswa": []
+}
